@@ -1,2 +1,7 @@
+
 print("Hello world;")
 print("yes;")
+print("ðîñò;")
+print("helover;")
+print("heloverû;")
+
